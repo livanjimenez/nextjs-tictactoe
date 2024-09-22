@@ -1,0 +1,29 @@
+.square {
+  background: #fff;
+  border: 1px solid #999;
+  padding: 0;
+  text-align: center;
+  width: 34px;
+  height: 34px;
+  font-size: 24px;
+  font-weight: bold;
+  float: left;
+}
+
+.status {
+  margin-bottom: 10px;
+}
+
+.game {
+  display: flex;
+  flex-direction: row;
+}
+
+.game-board {
+  margin: 0;
+  margin-left: 20px;
+}
+
+.game-info {
+  margin-left: 20px;
+}
